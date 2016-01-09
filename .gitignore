@@ -5,6 +5,10 @@
 ############
 
 Bones.esproj/
+includes/vendor/
+includes/composer.lock
+node_modules/
+assets/vendor/
 
 ############
 ## IDEs

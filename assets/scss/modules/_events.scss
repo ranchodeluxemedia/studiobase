@@ -1,0 +1,26 @@
+// Event Page SCSS
+
+.event {
+  background: #eee;
+  margin-bottom: 5px;
+  .event-date {
+    width: 100px;
+    background: #ccc;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 700;
+    padding: 15px 0 15px;
+    .event-date-day {
+      font-size: 4em;
+      margin: 0;
+      padding: 0;
+      line-height: 1;
+    }
+    .event-date-month {
+      font-size: 1.5em;
+      margin: 0;
+      padding: 0;
+      line-height: .7;
+    }
+  }
+}
