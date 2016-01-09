@@ -256,6 +256,6 @@ add_action('wp_enqueue_scripts', 'bones_fonts');
 
 add_filter('show_admin_bar', '__return_false');
 
-register_new_royalslider_files(1);
+register_new_royalslider_files(2);
 
 /* DON'T DELETE THIS CLOSING TAG */ ?>

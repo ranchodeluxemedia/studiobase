@@ -1,0 +1,23 @@
+{
+  "name": "studiobase",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Chris Canterbury <chris@ranchodeluxemedia.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/ranchodeluxemedia/studiobase",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "assets/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "quickshare": "QuickShare#~1.3.7",
+    "owl.carousel": "owl-carousel2#~2.0.0-beta.3"
+  }
+}

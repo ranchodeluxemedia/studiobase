@@ -5,7 +5,7 @@
 get_header(); ?>
 
 		<div id="slideshow">
-			<?php echo get_new_royalslider(1); ?>
+			<?php echo get_new_royalslider(2); ?>
 		</div>
 
 			<div id="content">
